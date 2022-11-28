@@ -8,8 +8,11 @@ HOW TO INSTALL THE APK
 HOW TO BUILD THE APK YOURSELF
 
 Requirements
+
 • Unity Engine (Unity 2020.3.28f1 is recommended).
+
 • Android Environment.
+
 The Phonebook App was developed and built in Unity Engine and to avoid build issues, 2020.3.28f1 is 
 highly recommended.
 
