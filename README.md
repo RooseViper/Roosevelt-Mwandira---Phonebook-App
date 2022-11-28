@@ -6,6 +6,7 @@ HOW TO INSTALL THE APK
 - Simply copy the apk to any mobile device to install it.
 
 HOW TO BUILD THE APK YOURSELF
+
 Requirements
 • Unity Engine (Unity 2020.3.28f1 is recommended).
 • Android Environment.
